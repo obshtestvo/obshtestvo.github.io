@@ -1,1 +1,1 @@
-[Пътеводителя](https://github.com/obshtestvo/info/wiki/%D0%9F%D1%8A%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-(FAQ)) за обществото е [в wiki-то.](https://github.com/obshtestvo/info/wiki/%D0%9F%D1%8A%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-(FAQ))
+[Пътеводителя](https://github.com/obshtestvo/info/wiki/%D0%9F%D1%8A%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-%28FAQ%28) за обществото е [в wiki-то.](https://github.com/obshtestvo/info/wiki/%D0%9F%D1%8A%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB-%28FAQ%28)
