@@ -1,4 +1,4 @@
-markdown: redcarpet2
+markdown: redcarpet
 pygments: true
 permalink: /:categories/:year/:month/:day/:title.html
 prose:
@@ -21,3 +21,5 @@ author :
   github : obshtestvo
   twitter : obshtestvo
   email: obshtestvo@obshtestvo.bg
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
