@@ -8,12 +8,12 @@
   <meta name="description" content="{{ site.description }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
+  <link rel="alternate" type="application/rss+xml" href="{{ site.BASE_PATH }}/atom.xml" />
 
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300'
     rel='stylesheet' type='text/css'>
 
-  <link href="/css/up.css" rel="stylesheet">
+  <link href="{{ site.BASE_PATH }}/css/up.css" rel="stylesheet">
 
   <!--[if lt IE 9]>
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -29,10 +29,10 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">{{ site.title }}</a>
+      <a class="navbar-brand" href="{{ site.BASE_PATH }}">{{ site.title }}</a>
       <div class="nav-collapse collapse navbar-responsive-collapse">
         <ul class="nav navbar-nav pull-right hidden-print lowercase">
-          <li><a title="Atom Feed" href="/atom.xml">RSS</a></li>
+          <li><a title="Atom Feed" href="{{ site.BASE_PATH }}/atom.xml">RSS</a></li>
         </ul>
       </div>
     </div>
@@ -66,5 +66,5 @@
   {% include gauges.html %}
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-<script src="/js/up.js"></script>
+<script src="{{ site.BASE_PATH }}/js/up.js"></script>
 </html>
