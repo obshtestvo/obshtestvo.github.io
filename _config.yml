@@ -6,7 +6,7 @@ prose:
   metadata:
     "_posts": |
       layout: post
-      title: Среша с ...
+      title: Среща с ...
       category: meeting
       tags: []
 BASE_PATH: http://obshtestvo.github.io/info
