@@ -1,0 +1,24 @@
+markdown: rdiscount
+pygments: true
+permalink: /:categories/:year/:month/:day/:title.html
+prose:
+  rooturl: "_posts"
+  metadata:
+    "_posts": |
+      layout: post
+      title: Среша с ...
+      category: meeting
+      tags: []
+rdiscount:
+  extensions: [smart]
+title : Общество - Статус
+production_url : http://obshtestvo.github.com/info
+description: "Общество: Кой какво направил и с кого се видял."
+disqus_shortname: obshtestvostatusblog
+# analytics: UA-32899481-1
+# gauges: 50f1f940613f5d2cfe000026
+author :
+  name : Общество
+  github : obshtestvo
+  twitter : obshtestvo
+  email: obshtestvo@obshtestvo.bg
