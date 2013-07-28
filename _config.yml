@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: redcarpet2
 pygments: true
 permalink: /:categories/:year/:month/:day/:title.html
 prose:
