@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Разузнаване на НПО нуждите
 category: progress
