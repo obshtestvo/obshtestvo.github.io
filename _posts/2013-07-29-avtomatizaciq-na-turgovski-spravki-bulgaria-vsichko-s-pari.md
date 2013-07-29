@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Автоматизация на търговски справки в България - всичко е с пари"
 category: "hitting-a-wall"
