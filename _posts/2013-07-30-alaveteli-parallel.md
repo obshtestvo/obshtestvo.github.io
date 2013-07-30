@@ -1,8 +1,10 @@
 ---
 published: true
 layout: post
-title: Среща с ...
-category: meeting
+title: 
+  - Среща с ...
+  - И други хора от България искат да правят сайт за заявления за достъп до информация
+category: update
 ---
 
 Туко що ми писаха от [MySociety](http://www.mysociety.org/ "Среща с ..."), че други хора се свързали с тях за инсталация на [Alavеteli](http://www.alaveteli.org/ "Среща с ...") в България. Случайнo да е някой от нас?
