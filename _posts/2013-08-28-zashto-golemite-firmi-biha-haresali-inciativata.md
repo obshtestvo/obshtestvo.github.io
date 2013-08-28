@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Защо големите фирми биха харесали инциативата ни (+икономически причини)
 category: proof
