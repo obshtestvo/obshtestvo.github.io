@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Посещения на форума Кариера в България: Защо не?"
 category: networking
