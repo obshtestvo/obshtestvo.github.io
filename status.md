@@ -1,8 +1,33 @@
 ---
-layout: post
+layout: post_alternative
 title : "Участници - Статус"
 group: navigation
 ---
+
+
+
+### Александър Ангелов
+![ Александър Ангелов](http://graph.facebook.com/compusbg/picture?width=100&height=100)
+
+Статус: :zzz:  **Зает**<br/>
+Допълнение: **В момента има грижи, но след това ще може да се включи**
+
+- PM, Организатор
+
+
+
+
+### Александър Минанов
+![Александър Минанов](http://graph.facebook.com/alex.milanov/picture?width=100&height=100)
+
+Статус: **:question:**  <br/>
+
+- Разработчик
+- Води курс/лекции "Web development" в [InitLab](http://initlab.org/)
+
+
+
+
 
 ### Антон Стойчев
 ![Антон Стойчев](http://graph.facebook.com/stavri.lavrov/picture?width=100&height=100)
@@ -21,70 +46,90 @@ group: navigation
 
 
 
-### Димитър Райков
-![Димитър Райков](http://graph.facebook.com/dimitar.raykov/picture?width=100&height=100)
-
-Статус: :white_check_mark: **Дизайнер on-demand**  <br/>
-Допълнение: **Когато се нуждаем от него намира време**<br/>
-Предвидена задача: **Дизайн за Alaveteli**
-
- - Дизайн и identity
- - Намери партньори по RE:CYCLE. Трябва да се продължи комуникацията там.
- - Freelance през останалото време
 
 
 
-### Стефан Кръстев
-![Стефан Кръстев](https://plus.google.com/s2/photos/profile/100157245271348669141?sz=100)
 
-Статус: :information_source: **Съветник** <br/>
-Допълнение: **Помага със gotchas и дискусии по сайта с депутатите**
-
- - Разработчик
- - Извън България
-
-
-
-### Екатерина Тодева 
-![Екатерина Тодева ](http://graph.facebook.com/kattodeva/picture?width=100&height=100)
-
-Статус: :white_check_mark: **В момента има време**  <br/>
-Предвидена задача: **Дизайн за сайта с депутатите**
-
- - Дизайн и identity
- - PM? Изявено желание за помощ с мейли, но трябва да изясним има ли нещо спиращо това
-
-
-
-### Елица Матеева
-![Елица Матеева](http://graph.facebook.com/elitsa.mateva/picture?width=100&height=100)
+### Божидар Божанов
+![Bozhidar Bozhanov](http://graph.facebook.com/bozhidar.bozhanov/picture?width=100&height=100)
 
 Статус: **:question:**  <br/>
-Предвидена задача: **PR на Alaveteli**
 
- - Изявено желание за помощ с мейли, но трябва да изясним има ли нещо спиращо това
- - Извън България
+- Разработчик, активен в социалните мрежи и open source
 
 
 
-### Йордан Миладинов
-![Йордан Миладинов](http://graph.facebook.com/100002363380172/picture?width=100&height=100)
+
+
+
+###  Боян Тодоров
+![ Боян Тодоров](http://graph.facebook.com/botodorov/picture?width=100&height=100)
 
 Статус: :zzz:  **Зает**<br/>
-Допълнение: : **Очаквана активност след средата на октомври**
+Допълнение: **След месец се очаква активност**
 
-- Разработчник
+- Дизайн, frontend разработка
 
 
 
-### Станимир Савов
-![Станимир Савов](http://graph.facebook.com/stanshaochow/picture?width=100&height=100)
 
-Статус: :zzz: **Зает**<br/>
-Допълнение: : **След изпитите през септември ще е малко по-спокойно, но ще се прави и дипломна**<br/>
-Предвидена задача: **Сайт свързащ събираното инфо със frontend-a за сайта с депутатите**
 
-- Разработчник, shembe.bg
+### Боян Юруков
+![ Боян Юруков](http://graph.facebook.com/boyan.yurukov/picture?width=100&height=100)
+
+Статус: :information_source: **Съветник** <br/>
+
+- Open Data разработчик и *тръбител*
+- Активен в социалните мрежи
+- Извън България
+
+
+
+
+
+
+
+###  Васил Бачев
+![ Васил Бачев](http://graph.facebook.com/vbachev/picture?width=100&height=100)
+
+Статус: **:question:**  <br/>
+Допълнение: **До скоро беше активен, трябва да изготвим стратегия на това как продължаваме с проекта**  <br/>
+Текущи Екипи: **Сайта с депутатите**
+
+- Разработчик
+
+
+
+
+
+
+
+
+###  Валентин Ласков
+
+Статус: :white_check_mark:  **Преводач on-demand**
+Текущи Екипи: **Alaveteli**
+
+- Преводач
+- Част от преводачите на OpenSource софтуер за България
+
+
+
+
+
+
+
+###  Владимир Василев
+![Владимир Василев](http://graph.facebook.com/vlood/picture?width=100&height=100)
+
+Статус: :information_source: **Съветник**   <br/>
+
+- Организатор на [initlab](http://initlab.org/) (Hackerspace Sofia)
+- Разработчик
+
+
+
+
 
 
 
@@ -99,63 +144,9 @@ group: navigation
 
 
 
-### Станимир Ненов
-![Станимир Ненов](http://graph.facebook.com/s.n.nenov/picture?width=100&height=100)
-
-Статус: :information_source: **Съветник**<br/>
-Допълнение: **Отговаря, когато се обърнем към него**<br/>
-
-- Юрист, съосновател на pravatami.bg
-
-
-### Кристиян Господинов
-![Кристиян Господинов](http://graph.facebook.com/krisgosp/picture?width=100&height=100)
-
-Статус: :zzz: **Зает**<br/>
-Допълнение: **От октомври ще е по-свободен**<br/>
-Предвидена задача: **RE:CYCLE backend с Тони**
-
-- Разработчик
-
-
-### Божидар Божанов
-![Bozhidar Bozhanov](http://graph.facebook.com/bozhidar.bozhanov/picture?width=100&height=100)
-
-Статус: **:question:**  <br/>
-
-- Разработчик, активен в социалните мрежи и open source
 
 
 
-### Александър Минанов
-![Александър Минанов](http://graph.facebook.com/alex.milanov/picture?width=100&height=100)
-
-Статус: **:question:**  <br/>
-
-- Разработчик
-- Води курс/лекции "Web development" в [InitLab](http://initlab.org/)
-
-
-
-### Мартин Марчев
-![Мартин Марчев](http://graph.facebook.com/martin.hristoff/picture?width=100&height=100)
-
-Статус: :zzz: **Зает**<br/>
-Допълнение: **Само наблюдава засега**
-
-- Разработчик
-
-
-
-### Стоян Атипов
-![Мартин Марчев](http://graph.facebook.com/pojarnikar.dobrovolec/picture?width=100&height=100)
-
-Статус: :zzz: **Зает**<br/>
-Допълнение: **Когато има време работи над идея за платформа на Obshtestvo.bg**<br/>
-Текущи Екипи: **Obshtestvo.bg Identity**
-
-- Бизнес Анализатор
-- PM
 
 ### Димитър Гюров
 ![Димитър Гюров](http://graph.facebook.com/dgyurov/picture?width=100&height=100)
@@ -167,76 +158,27 @@ group: navigation
 - Извън България
 
 
-### Боян Юруков
-![ Боян Юруков](http://graph.facebook.com/boyan.yurukov/picture?width=100&height=100)
-
-Статус: :information_source: **Съветник** <br/>
-
-- Open Data разработчик и *тръбител*
-- Активен в социалните мрежи
-- Извън България
 
 
 
-### Кристиян Костадинов
-![ Кристиян Костадинов](http://graph.facebook.com/kristiyan.kostadinov.5/picture?width=100&height=100)
-
-Статус: **:question:**  <br/>
-Допълнение: **Ако му е кеф да помогне с RE:CYCLE frontend**<br/>
-Текущи Екипи: **RE:CYCLE**
-
-- Frontend разработчик
-- Извън България
 
 
+### Димитър Райков
+![Димитър Райков](http://graph.facebook.com/dimitar.raykov/picture?width=100&height=100)
 
-### Радослав Георгиев
-![ Радослав Георгиев](http://graph.facebook.com/radogg/picture?width=100&height=100)
+Статус: :white_check_mark: **Дизайнер on-demand**  <br/>
+Допълнение: **Когато се нуждаем от него намира време**<br/>
+Предвидена задача: **Дизайн за Alaveteli**
 
-Статус: **:question:**  <br/>
-Допълнение: **Ще ми се да седнем и да обсъдим как точно да действаме заедно**
-
-- [hackfmi](http://hackfmi.com/) организатор
-- [entrepreneur.bg](http://www.entrepreneur.bg/) организтор
-- Активен в социалните мрежи
+ - Дизайн и identity
+ - Намери партньори по RE:CYCLE. Трябва да се продължи комуникацията там.
+ - Freelance през останалото време
 
 
 
-### Александър Ангелов
-![ Александър Ангелов](http://graph.facebook.com/compusbg/picture?width=100&height=100)
-
-Статус: :zzz:  **Зает**<br/>
-Допълнение: **В момента има грижи, но след това ще може да се включи**
-
-- PM, Организатор
 
 
-### Евелина Желязкова
-![ Евелина Желязкова](http://graph.facebook.com/evelina.jeliazkova/picture?width=100&height=100)
 
-Статус: :white_check_mark: **В момента има време**<br/>
-Текущи Екипи: **Obshtestvo.bg Identity**
-
-- Илюстратор
-
-
-###  Боян Тодоров
-![  Боян Тодоров](http://graph.facebook.com/botodorov/picture?width=100&height=100)
-
-Статус: :zzz:  **Зает**<br/>
-Допълнение: **След месец се очаква активност**
-
-- Дизайн, frontend разработка
-
-
-###  Васил Бачев
-![ Васил Бачев](http://graph.facebook.com/vbachev/picture?width=100&height=100)
-
-Статус: **:question:**  <br/>
-Допълнение: **До скоро беше активен, трябва да изготвим стратегия на това как продължаваме с проекта**  <br/>
-Текущи Екипи: **Сайта с депутатите**
-
-- Разработчик
 
 
 
@@ -253,6 +195,183 @@ group: navigation
 
 
 
+
+
+
+
+
+### Евелина Желязкова
+![ Евелина Желязкова](http://graph.facebook.com/evelina.jeliazkova/picture?width=100&height=100)
+
+Статус: :white_check_mark: **В момента има време**<br/>
+Текущи Екипи: **Obshtestvo.bg Identity**
+
+- Илюстратор
+
+
+
+
+
+
+
+### Екатерина Тодева 
+![Екатерина Тодева ](http://graph.facebook.com/kattodeva/picture?width=100&height=100)
+
+Статус: :white_check_mark: **В момента има време**  <br/>
+Предвидена задача: **Дизайн за сайта с депутатите**
+
+ - Дизайн и identity
+ - PM? Изявено желание за помощ с мейли, но трябва да изясним има ли нещо спиращо това
+
+
+
+
+
+
+
+### Елица Матеева
+![Елица Матеева](http://graph.facebook.com/elitsa.mateva/picture?width=100&height=100)
+
+Статус: **:question:**  <br/>
+Предвидена задача: **PR на Alaveteli**
+
+ - Изявено желание за помощ с мейли, но трябва да изясним има ли нещо спиращо това
+ - Извън България
+
+
+
+
+
+
+
+### Йордан Миладинов
+![Йордан Миладинов](http://graph.facebook.com/100002363380172/picture?width=100&height=100)
+
+Статус: :zzz:  **Зает**<br/>
+Допълнение: : **Очаквана активност след средата на октомври**
+
+- Разработчник
+
+
+
+
+
+
+
+
+
+### Кристиян Господинов
+![Кристиян Господинов](http://graph.facebook.com/krisgosp/picture?width=100&height=100)
+
+Статус: :zzz: **Зает**<br/>
+Допълнение: **От октомври ще е по-свободен**<br/>
+Предвидена задача: **RE:CYCLE backend с Тони**
+
+- Разработчик
+
+
+
+
+
+
+
+
+### Кристиян Костадинов
+![ Кристиян Костадинов](http://graph.facebook.com/kristiyan.kostadinov.5/picture?width=100&height=100)
+
+Статус: **:question:**  <br/>
+Допълнение: **Ако му е кеф да помогне с RE:CYCLE frontend**<br/>
+Текущи Екипи: **RE:CYCLE**
+
+- Frontend разработчик
+- Извън България
+
+
+
+
+
+
+
+
+### Мартин Марчев
+![Мартин Марчев](http://graph.facebook.com/martin.hristoff/picture?width=100&height=100)
+
+Статус: :zzz: **Зает**<br/>
+Допълнение: **Само наблюдава засега**
+
+- Разработчик
+
+
+
+
+
+
+
+
+### Радослав Георгиев
+![ Радослав Георгиев](http://graph.facebook.com/radogg/picture?width=100&height=100)
+
+Статус: **:question:**  <br/>
+Допълнение: **Ще ми се да седнем и да обсъдим как точно да действаме заедно**
+
+- [hackfmi](http://hackfmi.com/) организатор
+- [entrepreneur.bg](http://www.entrepreneur.bg/) организтор
+- Активен в социалните мрежи
+
+
+
+
+
+
+
+### Станимир Ненов
+![Станимир Ненов](http://graph.facebook.com/s.n.nenov/picture?width=100&height=100)
+
+Статус: :information_source: **Съветник**<br/>
+Допълнение: **Отговаря, когато се обърнем към него**<br/>
+
+- Юрист, съосновател на pravatami.bg
+
+
+
+
+
+
+
+
+### Станимир Савов
+![Станимир Савов](http://graph.facebook.com/stanshaochow/picture?width=100&height=100)
+
+Статус: :zzz: **Зает**<br/>
+Допълнение: : **След изпитите през септември ще е малко по-спокойно, но ще се прави и дипломна**<br/>
+Предвидена задача: **Сайт свързащ събираното инфо със frontend-a за сайта с депутатите**
+
+- Разработчник, shembe.bg
+
+
+
+
+
+
+
+### Стефан Кръстев
+![Стефан Кръстев](https://plus.google.com/s2/photos/profile/100157245271348669141?sz=100)
+
+Статус: :information_source: **Съветник** <br/>
+Допълнение: **Помага със gotchas и дискусии по сайта с депутатите**
+
+ - Разработчик
+ - Извън България
+
+
+
+
+
+
+
+
+
+
 ###  Стефан Желязков
 ![Стефан Желязков](http://graph.facebook.com/zhelyazkov/picture?width=100&height=100)
 
@@ -262,21 +381,25 @@ group: navigation
 - Разработчик
 
 
-###  Владимир Василев
-![Владимир Василев](http://graph.facebook.com/vlood/picture?width=100&height=100)
 
-Статус: :information_source: **Съветник**   <br/>
 
-- Организатор на [initlab](http://initlab.org/) (Hackerspace Sofia)
-- Разработчик
 
-###  Валентин Ласков
 
-Статус: :white_check_mark:  **Преводач on-demand**
-Текущи Екипи: **Alaveteli**
 
-- Преводач
-- Част от преводачите на OpenSource софтуер за България
+### Стоян Атипов
+![Стоян Атипов](http://graph.facebook.com/pojarnikar.dobrovolec/picture?width=100&height=100)
+
+Статус: :zzz: **Зает**<br/>
+Допълнение: **Когато има време работи над идея за платформа на Obshtestvo.bg**<br/>
+Текущи Екипи: **Obshtestvo.bg Identity**
+
+- Бизнес Анализатор
+- PM
+
+
+
+
+
 
 ## Партньори
 
@@ -285,20 +408,34 @@ group: navigation
 
 По проекта с депутатите.
 
+
+
+
+
 ### [TechNews](http://technews.bg/)/[GreenTech](http://www.greentech.bg/)
 ![Институт за развитие на публичната среда](http://www.greentech.bg/wp-content/themes/hybrid-news/images/logo-green-10.png)
 
 по RE:CYCLE.
+
+
+
 
 ### TimeHeroes
 ![TimeHeroes](http://graph.facebook.com/TimeHeroes/picture?width=100&height=100) 
  
 Трябва да уточним как ще действаме заедно.
 
+
+
+
+
 ### Програма за доступ до информация [ПДДИ](http://www.aip-bg.org/)
 ![AIPbulgaria](http://graph.facebook.com/AIPbulgaria/picture?width=100&height=100)  
 
 По Alaveteli.
+
+
+
 
 ## Заглъхнали учасници
 Тези, които отдавна не сме се чували или са казали че, са много заети
