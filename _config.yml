@@ -9,9 +9,9 @@ prose:
       title: Среща с ...
       category: meeting
       tags: []
-BASE_PATH: http://obshtestvo.github.io/info
+BASE_PATH: http://obshtestvo-meta.github.io/info
 title : Общество - Статус
-production_url : http://obshtestvo.github.com/info
+production_url : http://obshtestvo-meta.github.com/info
 description: "Общество: Кой какво направил и с кого се видял."
 disqus_shortname: obshtestvostatusblog
 # analytics: UA-32899481-1
