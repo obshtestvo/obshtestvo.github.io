@@ -150,7 +150,8 @@ group: navigation
 ![Мартин Марчев](http://graph.facebook.com/pojarnikar.dobrovolec/picture?width=100&height=100)
 
 Статус: :zzz: **Зает**<br/>
-Допълнение: **Когато има време работи над идея за платформа на Obshtestvo.bg**
+Допълнение: **Когато има време работи над идея за платформа на Obshtestvo.bg**<br/>
+Текущи Екипи: **Obshtestvo.bg Identity**
 
 - Бизнес Анализатор
 - PM
@@ -180,7 +181,8 @@ group: navigation
 ![ Кристиян Костадинов](http://graph.facebook.com/kristiyan.kostadinov.5/picture?width=100&height=100)
 
 Статус: **:question:**  <br/>
-Допълнение: **Ако му е кеф да помогне с RE:CYCLE frontend**
+Допълнение: **Ако му е кеф да помогне с RE:CYCLE frontend**<br/>
+Текущи Екипи: **RE:CYCLE**
 
 - Frontend разработчик
 - Извън България
@@ -211,6 +213,82 @@ group: navigation
 ### Евелина Желязкова
 ![ Евелина Желязкова](http://graph.facebook.com/evelina.jeliazkova/picture?width=100&height=100)
 
-Статус: :white_check_mark: **В момента има време**  <br/>
+Статус: :white_check_mark: **В момента има време**<br/>
+Текущи Екипи: **Obshtestvo.bg Identity**
 
 - Илюстратор
+
+
+###  Боян Тодоров
+![  Боян Тодоров](http://graph.facebook.com/botodorov/picture?width=100&height=100)
+
+Статус: :zzz:  **Зает**<br/>
+Допълнение: **След месец се очаква активност**
+
+- Дизайн, frontend разработка
+
+
+###  Васил Бачев
+![ Васил Бачев](http://graph.facebook.com/vbachev/picture?width=100&height=100)
+
+Статус: **:question:**  <br/>
+Допълнение: **До скоро беше активен, трябва да изготвим стратегия на това как продължаваме с проекта**  <br/>
+Текущи Екипи: **Сайта с депутатите**
+
+- Разработчик
+
+
+
+###  Димитър Димитров
+![ Димитър Димитров](http://graph.facebook.com/mitio/picture?width=100&height=100)
+
+Статус: :white_check_mark:  **Разработчик on-demand, като се очаква съвместна работа на място**, тоест няколко часа, за ушите и хоп да стават промените  <br/>
+Текущи Екипи: **Alaveteli**
+
+- Разработчик
+- Активен в социалните мрежи
+- Организатор на http://railsgirls.com/sofia
+- Участник в IT Турнето http://plovdivconf.com/
+
+
+
+###  Димитър Димитров
+![ Димитър Димитров](http://graph.facebook.com/mitio/picture?width=100&height=100)
+
+Статус: :white_check_mark:  **Разработчик on-demand, като се очаква съвместна работа на място**, тоест няколко часа, за ушите и хоп да стават промените  <br/>
+Текущи Екипи: **Alaveteli**
+
+- Разработчик
+- Активен в социалните мрежи
+- Организатор на http://railsgirls.com/sofia
+- Участник в IT Турнето http://plovdivconf.com/
+
+
+###  Стефан Желязков
+![Стефан Желязков](http://graph.facebook.com/zhelyazkov/picture?width=100&height=100)
+
+Статус: **:question:**  <br/>
+Допълнение: **Направи проекта с картата на #ДАНСwithme и от тогава не съм го чувал**  <br/>
+
+- Разработчик
+
+
+###  Владимир Василев
+![Владимир Василев](http://graph.facebook.com/vlood/picture?width=100&height=100)
+
+Статус: :information_source: **Съветник** <br/>
+
+- Организатор на http://initlab.org/ (Hackerspace Sofia)
+- Разработчик
+
+## Партньори
+
+ - ИРПС
+ - TechNews
+ - TimeHeroes
+
+## Заглъхнали учасници
+Тези, които от давна не сме се чували или са казали че, са много заети
+
+### Добромир Петров
+![Добромир Петров](https://plus.google.com/s2/photos/profile/100519613302687031968?sz=50)
