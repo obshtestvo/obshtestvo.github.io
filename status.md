@@ -70,7 +70,7 @@ group: navigation
 Пояснение: : **След изпитите през септември ще е малко по-спокойно, но ще се прави и дипломна**<br/>
 Предвидена задача: **Сайт свързащ събираното инфо със frontend-a за сайта с депутатите**
 
-- Разработчник
+- Разработчник, shembe.bg
 
 ### Георги Атанасов 
 ![Георги Атанасов](http://graph.facebook.com/GeorgeAtanasovAtanasov/picture?width=100&height=100)
@@ -87,8 +87,25 @@ group: navigation
 Статус: :information_source: **Съветник**<br/>
 Пояснение: **Отговаря, когато се обърнем към него**<br/>
 
-- Юрост, съосновател на pravatami.bg
+- Юрист, съосновател на pravatami.bg
+
+
+### Кристиян Господинов
+![Кристиян Господинов](http://graph.facebook.com/krisgosp/picture?width=100&height=100)
+
+Статус: :zzz: **Зает**<br/>
+Пояснение: **От октомври ще е по-свободен**<br/>
+Предвидена задача: **RE:CYCLE backend с Тони**
+
+- Разработчик
+
+
+### Божидар Божанов
+![Bozhidar Bozhanov](http://graph.facebook.com/bozhidar.bozhanov/picture?width=100&height=100)
+
+Статус: **:question:**  <br/>
+
+- Разработчик, активен в социалните мрежи и open source
 
 
 
- 
