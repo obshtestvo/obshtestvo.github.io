@@ -4911,8 +4911,9 @@ section.content img.noclip {
 }
 
 section.content img.emojify {
-    display: inline;
+    display: inline-block;
     margin: 0;
+    margin-bottom: -0.25em;
 }
 
 
