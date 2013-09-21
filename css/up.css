@@ -4909,7 +4909,7 @@ section.content img.noclip {
     display: inline-block;
     clear: both;
 }
-section.content img.noncentered-img {
+section.content.noncentered-img img {
     display: inline-block;
     margin: 0;
 }
