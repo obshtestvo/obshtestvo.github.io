@@ -265,18 +265,18 @@ group: navigation
 ###  Владимир Василев
 ![Владимир Василев](http://graph.facebook.com/vlood/picture?width=100&height=100)
 
-Статус: :white_check_mark:  **Преводач on-demand**
-
-- Преводач
-- Част от преводачите на OpenSource софтуер за България
-
-###  Валентин Ласков
-
 Статус: :information_source: **Съветник**   <br/>
-Текущи Екипи: **Alaveteli**
 
 - Организатор на [initlab](http://initlab.org/) (Hackerspace Sofia)
 - Разработчик
+
+###  Валентин Ласков
+
+Статус: :white_check_mark:  **Преводач on-demand**
+Текущи Екипи: **Alaveteli**
+
+- Преводач
+- Част от преводачите на OpenSource софтуер за България
 
 ## Партньори
 
@@ -293,7 +293,7 @@ group: navigation
 ### TimeHeroes
 ![TimeHeroes](http://graph.facebook.com/TimeHeroes/picture?width=100&height=100) 
  
-Трябва да уточник как ще действаме заедно.
+Трябва да уточним как ще действаме заедно.
 
 ### Програма за доступ до информация [ПДДИ](http://www.aip-bg.org/)
 ![AIPbulgaria](http://graph.facebook.com/AIPbulgaria/picture?width=100&height=100)  
@@ -301,7 +301,7 @@ group: navigation
 По Alaveteli.
 
 ## Заглъхнали учасници
-Тези, които от давна не сме се чували или са казали че, са много заети
+Тези, които отдавна не сме се чували или са казали че, са много заети
 
 ### Добромир Петров
 ![Добромир Петров](https://plus.google.com/s2/photos/profile/100519613302687031968?sz=50)
