@@ -4,10 +4,6 @@ title : "Участници - Статус"
 group: navigation
 ---
 
-Тестова страница за екипа
-
-## Статус на участници
-
 ### Антон Стойчев
 ![Антон Стойчев](http://graph.facebook.com/stavri.lavrov/picture?width=100&height=100)
 
