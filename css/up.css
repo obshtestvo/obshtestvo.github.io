@@ -4909,6 +4909,10 @@ section.content img.noclip {
     display: inline-block;
     clear: both;
 }
+section.content img.noncentered-img {
+    display: inline-block;
+    margin: 0;
+}
 
 section.content img.emojify {
     display: inline-block;
