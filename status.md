@@ -6,6 +6,7 @@ group: navigation
 
 ### Антон Стойчев
 ![Антон Стойчев](http://graph.facebook.com/stavri.lavrov/picture?width=100&height=100)
+
 Текущи Екипи: **Obshtestvo.bg Identity**, **Alaveteli**, **RE:CYCLE**, **Сайта с депутатите**
 
 Статус: :white_check_mark: **Отдаден fulltime** (със бая от времето изяждано от огледи за квартира в момента) <br/>
@@ -195,8 +196,8 @@ group: navigation
 Статус: **:question:**  <br/>
 Допълнение: **Ще ми се да седнем и да обсъдим как точно да действаме заедно**
 
-- http://hackfmi.com/ организатор
-- http://www.entrepreneur.bg/ организтор
+- [hackfmi](http://hackfmi.com/) организатор
+- [entrepreneur.bg](http://www.entrepreneur.bg/) организтор
 - Активен в социалните мрежи
 
 
@@ -247,21 +248,9 @@ group: navigation
 
 - Разработчик
 - Активен в социалните мрежи
-- Организатор на http://railsgirls.com/sofia
-- Участник в IT Турнето http://plovdivconf.com/
+- Организатор на [railsgirls](http://railsgirls.com/sofia)
+- Участник в IT Турнето [plovdivconf](http://plovdivconf.com/)
 
-
-
-###  Димитър Димитров
-![ Димитър Димитров](http://graph.facebook.com/mitio/picture?width=100&height=100)
-
-Статус: :white_check_mark:  **Разработчик on-demand, като се очаква съвместна работа на място**, тоест няколко часа, за ушите и хоп да стават промените  <br/>
-Текущи Екипи: **Alaveteli**
-
-- Разработчик
-- Активен в социалните мрежи
-- Организатор на http://railsgirls.com/sofia
-- Участник в IT Турнето http://plovdivconf.com/
 
 
 ###  Стефан Желязков
@@ -276,16 +265,40 @@ group: navigation
 ###  Владимир Василев
 ![Владимир Василев](http://graph.facebook.com/vlood/picture?width=100&height=100)
 
-Статус: :information_source: **Съветник** <br/>
+Статус: :white_check_mark:  **Преводач on-demand**
 
-- Организатор на http://initlab.org/ (Hackerspace Sofia)
+- Преводач
+- Част от преводачите на OpenSource софтуер за България
+
+###  Валентин Ласков
+
+Статус: :information_source: **Съветник**   <br/>
+Текущи Екипи: **Alaveteli**
+
+- Организатор на [initlab](http://initlab.org/) (Hackerspace Sofia)
 - Разработчик
 
 ## Партньори
 
- - ИРПС
- - TechNews
- - TimeHeroes
+### Институт за развитие на публичната среда (ИРПС)
+![Институт за развитие на публичната среда](http://graph.facebook.com/InstituteForPublicEnvironmentDevelopment/picture?width=100&height=100) 
+
+По проекта с депутатите.
+
+### [TechNews](http://technews.bg/)/[GreenTech](http://www.greentech.bg/)
+![Институт за развитие на публичната среда](http://www.greentech.bg/wp-content/themes/hybrid-news/images/logo-green-10.png)
+
+по RE:CYCLE.
+
+### TimeHeroes
+![TimeHeroes](http://graph.facebook.com/TimeHeroes/picture?width=100&height=100) 
+ 
+Трябва да уточник как ще действаме заедно.
+
+### Програма за доступ до информация [ПДДИ](http://www.aip-bg.org/)
+![AIPbulgaria](http://graph.facebook.com/AIPbulgaria/picture?width=100&height=100)  
+
+По Alaveteli.
 
 ## Заглъхнали учасници
 Тези, които от давна не сме се чували или са казали че, са много заети
