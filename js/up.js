@@ -106,4 +106,16 @@
     $(function () {
         $.support.transition = transitionEnd()
     })
+    $(function () {
+        emojify.setConfig({
+            emojify_tag_type: 'img',
+            emoticons_enabled: true,
+            people_enabled: true,
+            nature_enabled: true,
+            objects_enabled: true,
+            places_enabled: true,
+            symbols_enabled: true
+        });
+        emojify.run();
+    })
 }(window.jQuery);
