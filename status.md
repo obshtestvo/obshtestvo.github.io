@@ -17,8 +17,8 @@ group: navigation
 
 
 
-### Александър Минанов
-![Александър Минанов](http://graph.facebook.com/alex.milanov/picture?width=100&height=100)
+### Александър Миланов
+![Александър Миланов](http://graph.facebook.com/alex.milanov/picture?width=100&height=100)
 
 Статус: **:question:**  <br/>
 
@@ -89,6 +89,22 @@ group: navigation
 
 
 
+
+###  Валентин Ласков
+
+Статус: :white_check_mark:  **Преводач on-demand**
+Текущи Екипи: **Alaveteli**
+
+- Преводач
+- Част от преводачите на OpenSource софтуер за България
+
+
+
+
+
+
+
+
 ###  Васил Бачев
 ![ Васил Бачев](http://graph.facebook.com/vbachev/picture?width=100&height=100)
 
@@ -105,19 +121,6 @@ group: navigation
 
 
 
-###  Валентин Ласков
-
-Статус: :white_check_mark:  **Преводач on-demand**
-Текущи Екипи: **Alaveteli**
-
-- Преводач
-- Част от преводачите на OpenSource софтуер за България
-
-
-
-
-
-
 
 ###  Владимир Василев
 ![Владимир Василев](http://graph.facebook.com/vlood/picture?width=100&height=100)
@@ -126,6 +129,7 @@ group: navigation
 
 - Организатор на [initlab](http://initlab.org/) (Hackerspace Sofia)
 - Разработчик
+
 
 
 
@@ -163,23 +167,6 @@ group: navigation
 
 
 
-### Димитър Райков
-![Димитър Райков](http://graph.facebook.com/dimitar.raykov/picture?width=100&height=100)
-
-Статус: :white_check_mark: **Дизайнер on-demand**  <br/>
-Допълнение: **Когато се нуждаем от него намира време**<br/>
-Предвидена задача: **Дизайн за Alaveteli**
-
- - Дизайн и identity
- - Намери партньори по RE:CYCLE. Трябва да се продължи комуникацията там.
- - Freelance през останалото време
-
-
-
-
-
-
-
 
 
 ###  Димитър Димитров
@@ -193,6 +180,24 @@ group: navigation
 - Организатор на [railsgirls](http://railsgirls.com/sofia)
 - Участник в IT Турнето [plovdivconf](http://plovdivconf.com/)
 
+
+
+
+
+
+
+
+
+### Димитър Райков
+![Димитър Райков](http://graph.facebook.com/dimitar.raykov/picture?width=100&height=100)
+
+Статус: :white_check_mark: **Дизайнер on-demand**  <br/>
+Допълнение: **Когато се нуждаем от него намира време**<br/>
+Предвидена задача: **Дизайн за Alaveteli**
+
+ - Дизайн и identity
+ - Намери партньори по RE:CYCLE. Трябва да се продължи комуникацията там.
+ - Freelance през останалото време
 
 
 
