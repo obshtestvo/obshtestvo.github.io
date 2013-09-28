@@ -313,6 +313,23 @@ group: navigation
 
 
 
+### Николай Александренко
+![Николай Александренко](http://graph.facebook.com/nikolai.aleksandrenko/picture?width=100&height=100)
+
+Статус: :white_check_mark: **В момента има време**  <br/>
+Допълнение: **Главно weekend-ите, но като почти всеки ден когато има време**
+Текущи Екипи: **Real-life bug tracker**
+
+- Разработчик
+
+
+
+
+
+
+
+
+
 ### Радослав Георгиев
 ![ Радослав Георгиев](http://graph.facebook.com/radogg/picture?width=100&height=100)
 
@@ -400,6 +417,19 @@ group: navigation
 
 - Бизнес Анализатор
 - PM
+
+
+
+
+
+### Ясен Фингаров
+![Ясен Фингаров](http://graph.facebook.com/fingaroff/picture?width=100&height=100)
+
+Статус: :zzz: **Зает**<br/>
+Допълнение: **Ако в бъдеще има време ще помага**<br/>
+
+- Разработчик
+
 
 
 
