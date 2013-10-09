@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: TarnovoConf 2013
 category: conference
