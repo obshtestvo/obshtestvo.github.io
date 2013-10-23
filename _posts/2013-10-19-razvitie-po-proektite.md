@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Развитие по проектите
 category: update
