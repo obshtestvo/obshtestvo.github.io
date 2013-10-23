@@ -109,7 +109,7 @@
     $(function () {
         emojify.setConfig({
             emojify_tag_type: 'img',
-            emoticons_enabled: true,
+            emoticons_enabled: false,
             people_enabled: true,
             nature_enabled: true,
             objects_enabled: true,
