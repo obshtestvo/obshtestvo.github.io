@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: OpenFest Talk
 category: conference
