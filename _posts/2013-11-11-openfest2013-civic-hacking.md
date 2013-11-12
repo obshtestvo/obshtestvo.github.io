@@ -7,18 +7,18 @@ category: talk
 
 Лекцията от OpenFest, която ни позволиха да направим организаторите:
 
-<video width="640" height="360" preload="auto" controls poster="http://leanbackplayer.com/videos/poster/elephants_dream_640x360.jpg">
-<source src="http://leanbackplayer.com/videos/360p/elephants_dream_640x360_2.30.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' /><object class="leanback-player-flash-fallback" width="640" height="360" type="application/x-shockwave-flash" data="http://releases.flowplayer.org/swf/flowplayer.swf">
+<video width="640" height="360" preload="auto" controls poster="http://www.computermagazine.bg/web/files/uploadify/EventImage/38/thumb_518x345_5416.jpg">
+<source src="http://va.ludost.net/files/of2013/Day1/Hall_Sofia/03.Civic%20Hacking%20-%20%d0%90%d0%bd%d1%82%d0%be%d0%bd%20%d0%a1%d1%82%d0%be%d0%b9%d1%87%d0%b5%d0%b2.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' /><object class="leanback-player-flash-fallback" width="640" height="360" type="application/x-shockwave-flash" data="http://releases.flowplayer.org/swf/flowplayer.swf">
 <param name="movie" value="http://releases.flowplayer.org/swf/flowplayer.swf" />
 <param name="allowFullScreen" value="true" />
 <param name="wmode" value="opaque" />
 <param name="bgcolor" value="#000000" />
-<param name="flashVars" value="config={'playlist':['http://leanbackplayer.com/videos/poster/elephants_dream_640x360.jpg', 
-{'url':'http://leanbackplayer.com/videos/360p/elephants_dream_640x360_2.30.mp4','autoPlay':false,'autobuffering':true}]}" />
+<param name="flashVars" value="config={'playlist':['http://www.computermagazine.bg/web/files/uploadify/EventImage/38/thumb_518x345_5416.jpg', 
+{'url':'http://va.ludost.net/files/of2013/Day1/Hall_Sofia/03.Civic%20Hacking%20-%20%d0%90%d0%bd%d1%82%d0%be%d0%bd%20%d0%a1%d1%82%d0%be%d0%b9%d1%87%d0%b5%d0%b2.mp4','autoPlay':false,'autobuffering':true}]}" />
 </object><div class="leanback-player-html-fallback" style="width: 640px; height: 360px;">
-<img src="http://leanbackplayer.com/videos/poster/elephants_dream_640x360.jpg" width="640" height="360" alt="Poster Image" 
+<img src="http://www.computermagazine.bg/web/files/uploadify/EventImage/38/thumb_518x345_5416.jpg" width="640" height="360" alt="Poster Image" 
 title="No HTML5-Video playback capabilities found. Please download the video(s) below." />
-<div><strong>Download Video:</strong><a href="http://leanbackplayer.com/videos/360p/elephants_dream_640x360_2.30.mp4">.mp4</a>
+<div><strong>Download Video:</strong><a href="http://va.ludost.net/files/of2013/Day1/Hall_Sofia/03.Civic%20Hacking%20-%20%d0%90%d0%bd%d1%82%d0%be%d0%bd%20%d0%a1%d1%82%d0%be%d0%b9%d1%87%d0%b5%d0%b2.mp4">.mp4</a>
 </div>
 </div>
 </video>
