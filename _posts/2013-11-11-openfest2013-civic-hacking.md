@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Лекцията от OpenFest 2013: Civic Hacking"
 category: talk
