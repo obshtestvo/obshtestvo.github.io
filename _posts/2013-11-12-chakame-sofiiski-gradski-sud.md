@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "НПО регистрация: Чакаме решение от Софийски градски съд"
 category: administraiton
