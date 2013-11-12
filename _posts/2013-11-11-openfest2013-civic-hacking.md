@@ -15,10 +15,5 @@ category: talk
 <param name="bgcolor" value="#000000" />
 <param name="flashVars" value="config={'playlist':['http://www.computermagazine.bg/web/files/uploadify/EventImage/38/thumb_518x345_5416.jpg', 
 {'url':'http://va.ludost.net/files/of2013/Day1/Hall_Sofia/03.Civic%20Hacking%20-%20%d0%90%d0%bd%d1%82%d0%be%d0%bd%20%d0%a1%d1%82%d0%be%d0%b9%d1%87%d0%b5%d0%b2.mp4','autoPlay':false,'autobuffering':true}]}" />
-</object><div class="leanback-player-html-fallback" style="width: 640px; height: 360px;">
-<img src="http://www.computermagazine.bg/web/files/uploadify/EventImage/38/thumb_518x345_5416.jpg" width="640" height="360" alt="Poster Image" 
-title="No HTML5-Video playback capabilities found. Please download the video(s) below." />
-<div><strong>Download Video:</strong><a href="http://va.ludost.net/files/of2013/Day1/Hall_Sofia/03.Civic%20Hacking%20-%20%d0%90%d0%bd%d1%82%d0%be%d0%bd%20%d0%a1%d1%82%d0%be%d0%b9%d1%87%d0%b5%d0%b2.mp4">.mp4</a>
-</div>
-</div>
+</object>
 </video>
