@@ -1,10 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 title: Alaveteli design
 category: progress
 ---
-
 
 От [RATIONAL INTERNATIONAL](http://rationalinternational.net/) където работи Елица Матеева направиха страхотен дизайн за Alaveteli сайта, който ще ползваме и двете страни - Хърватска и България. 
 
