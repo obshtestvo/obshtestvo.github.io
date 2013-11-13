@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Дизайн на obshtestvo.bg - final 1.0"
 category: update
