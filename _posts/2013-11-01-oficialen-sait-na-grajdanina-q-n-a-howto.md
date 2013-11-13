@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Официален сайт на гражданина  - Howto.bg Q&A"
 category: project
