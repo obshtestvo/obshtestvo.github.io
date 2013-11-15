@@ -5,12 +5,10 @@ title: "Общество - Статус"
 
 <section class="content">
   <ul class="listing">
-    {% for post in site.posts %}
-    {% capture i %}{{ forloop.index }}{% endcapture %}
-    {% if i < 5 %}
+    {% for post in site.posts limit:4 %}
       <li>
           <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       </li>
-    {% endif %}
+     {% endfor %}
   </ul>
 </section>
