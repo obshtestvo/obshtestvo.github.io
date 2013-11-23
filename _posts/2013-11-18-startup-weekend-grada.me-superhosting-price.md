@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Startup weekend 2013 Sofia & Общество: хостинг за 1000лв от superhosting"
 category: event
