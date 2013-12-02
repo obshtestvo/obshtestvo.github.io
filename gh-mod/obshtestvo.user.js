@@ -8,65 +8,31 @@
 // @grant       none
 // ==/UserScript==
 
-/*!
- * jQuery replaceText - v1.1 - 11/21/2009
- * http://benalman.com/projects/jquery-replacetext-plugin/
- * 
- * Copyright (c) 2009 "Cowboy" Ben Alman
- * Dual licensed under the MIT and GPL licenses.
- * http://benalman.com/about/license/
- */
 (function ($) {
-    $.fn.replaceText = function (search, replace, text_only) {
-        return this.each(function () {
-            var node = this.firstChild,
-                val,
-                new_val,
+    $.fn.replaceTextAll = function (map) {
+        var container = this[0];
+        var walker = document.createTreeWalker(
+            container,
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
 
-            // Elements to be removed at the end.
-                remove = [];
+        var node;
+        var textNodes = [];
 
-            // Only continue if firstChild exists.
-            if (node) {
-
-                // Loop over all childNodes.
-                do {
-
-                    // Only process text nodes.
-                    if (node.nodeType === 3) {
-
-                        // The original node value.
-                        val = node.nodeValue;
-
-                        // The new value.
-                        new_val = val.replace(search, replace);
-
-                        // Only replace text if the new value is actually different!
-                        if (new_val !== val) {
-
-                            if (!text_only && /</.test(new_val)) {
-                                // The new value contains HTML, set it in a slower but far more
-                                // robust way.
-                                $(node).before(new_val);
-
-                                // Don't remove the node yet, or the loop will lose its place.
-                                remove.push(node);
-                            } else {
-                                // The new value contains no HTML, so it can be set in this
-                                // very fast, simple way.
-                                node.nodeValue = new_val;
-                            }
-                        }
-                    }
-
-                } while (node = node.nextSibling);
-            }
-
-            // Time to remove those elements!
-            remove.length && $(remove).remove();
-        });
+        while(node = walker.nextNode()) {
+            textNodes.push(node);
+        }
+        for (var pattern in map) {
+            var regex = new RegExp('\\b'+pattern+'\\b', "g");
+            textNodes.forEach(function(node) {
+                var val = node.nodeValue;
+                var newVal = val.replace(regex, map[pattern]);
+                if (val!=newVal) node.nodeValue = newVal;
+            })
+        }
     };
-
 })(jQuery);
 
 
@@ -114,7 +80,7 @@ var obshtestvofy = function () {
 
         // Translation mapping
         var map = {
-            "html *": {
+            "html": {
                 "You only receive notifications for conversations in which you participate or are @mentioned": 'Ще получавате известия само по теми, в които участвате или сте @споменат',
                 "You receive notifications for all conversations in this repository": 'Ще получавате известия по всички теми',
                 "You can clone with": 'Можете да направите синхронизирано копие и чрез',
@@ -285,11 +251,8 @@ var obshtestvofy = function () {
             swapText: function ($el, text) {
                 $el.text(text)
             },
-            searchReplace: function ($el, pattern, replacement) {
-                $el.replaceText(new RegExp(pattern, "g"), replacement);
-            },
-            searchReplaceWholePhrase: function ($el, pattern, replacement) {
-                methods.searchReplace($el, "\\b" + pattern + "\\b", replacement);
+            searchReplace: function ($el, map) {
+                $el.replaceTextAll(map);
             },
             attr: function ($el, attr, text) {
                 $el.attr(attr, text)
@@ -346,9 +309,7 @@ var obshtestvofy = function () {
             if ($.type(value) == 'string') {
                 methods.swapText($el, value)
             } else if ($.type(value) == 'object') {
-                $.each(value, function (pattern, replacement) {
-                    methods.searchReplaceWholePhrase($el, pattern, replacement)
-                })
+                methods.searchReplace($el, value)
             } else {
                 value[1].unshift($el)
                 methods[value[0]].apply(methods, value[1])
