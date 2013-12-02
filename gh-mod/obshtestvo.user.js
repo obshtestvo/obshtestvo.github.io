@@ -243,6 +243,7 @@ var obshtestvofy = function () {
             ".enable-fullscreen": ['tooltip', ["Редактирай на цял екран"]],
             ".new-file .filename": ['placeholder', ["Дайте име на файла..."]],
             ".star-button.unstarred": ['attr', ['title', dict.tostar]],
+            "a.minibutton[title='Download this repository as a zip file']": ['attr', ['title', "Свали проекта като zip"]],
             ".breadcrumb form": ['tooltip', ["Създай нов файл"]],
             ".notification-indicator[original-title='You have no unread notifications']": ['tooltip', ["Нямате непрочетени известия"]],
         }
