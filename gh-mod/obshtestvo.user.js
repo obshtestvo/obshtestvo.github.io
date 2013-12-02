@@ -211,6 +211,7 @@ var obshtestvofy = function () {
                 "cancel": 'отмени',
                 "Assignee": 'Кой',
                 "Clear assignee": 'Отмени назначението',
+                "Download this repository as a zip file": 'Свали проекта като zip',
                 "You do not receive any notifications for conversations in this repository": 'Няма да получавате известия, по която и да е тема',
             },
             ".file-navigation i:contains('tree:')": "повреме на промяна:",
