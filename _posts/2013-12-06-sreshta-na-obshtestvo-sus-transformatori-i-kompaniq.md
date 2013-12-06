@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Среща с Трансформатори, СмартФабЛаб и Digital Spaces"
 category: meeting
