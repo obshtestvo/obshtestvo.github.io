@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Timeheroes & Obshtestvo"
 category: meeting
