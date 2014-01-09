@@ -1,0 +1,12 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("facebook.com") {
+    #pagelet_welcome_box, #groupsNav, #appsNav, #listsNav, #interestsNav,
+    #pageNav li#navFindFriends,
+    #pinnedNav .navHeader,
+    #pagelet_ego_pane, .egoOrganicColumn,
+    #pageNav li#navHome, #pagelet_rhc_footer
+    {
+        display:none!important;
+    }
+}
