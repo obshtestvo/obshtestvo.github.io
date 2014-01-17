@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Activen.bg , Sofia.urbanotopia, Grada.me и още"
 category: meeting
