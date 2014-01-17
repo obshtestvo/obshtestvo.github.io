@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title:"Timeheroes & Obshtestvo"
+title:"Timeheroes и Общество"
 category: meeting
 ---
 
