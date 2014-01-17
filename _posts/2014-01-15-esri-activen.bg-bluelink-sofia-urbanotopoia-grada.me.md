@@ -7,7 +7,7 @@ category: meeting
 
 ## Въведение
 
-Видяхме се Влади ([@disastacre)](https://twitter.com/disastacre) от [Градът Си ти](https://www.facebook.com/groups/yourcity/), Миглена Кузманова от [ESRI България](http://esribulgaria.com/), Павел Антон от [Bluelink](http://www.bluelink.net/) и аз, Антон от [Общество](http://www.bluelink.net/).
+Видяхме се Влади ([@disastacre)](https://twitter.com/disastacre) от [Градът Си ти](https://www.facebook.com/groups/yourcity/), Миглена Кузманова от [ESRI България](http://esribulgaria.com/), Павел Антон от [Bluelink](http://www.bluelink.net/) и аз, Антон от [Общество](http://www.obshtestvo.bg/).
 
 Обобщавам какво съм записал и попил от разговора. Така го разбрах. Може на моменти да звучи наивно - поправяйте ме.
 
