@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Официален сайт на гражданина  - Howto.bg Q&A"
+title: "Официален сайт на гражданина  - Howto.bg Q&amp;A"
 category: project
 ---
 
