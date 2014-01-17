@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Ефикасна среща с ПДИ по проекта pitaigi
 category: meeting
