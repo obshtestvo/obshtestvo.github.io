@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Среща на Общество в +това
 category: meeting
