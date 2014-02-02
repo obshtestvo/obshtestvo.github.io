@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "GRADA.me на Vivacom #newbornideas финалите"
 category: competition
