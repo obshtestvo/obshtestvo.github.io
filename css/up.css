@@ -251,7 +251,7 @@ html {
 }
 
 body {
-    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 15px;
     line-height: 1.428571429;
     color: #333;
@@ -369,7 +369,7 @@ a.text-success:hover,a.text-success:focus {
 }
 
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
-    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 100;
     line-height: 1.1;
 }
@@ -974,13 +974,13 @@ pre code {
 
     .col-offset-11 {
         margin-left: 91.66666666666666%;
-    };
+    }
 }
 
 @media(min-width:1200px) {
     .container {
-        max-width: 1170px;
-    };
+        max-width: 900px;
+    }
 }
 
 table {
