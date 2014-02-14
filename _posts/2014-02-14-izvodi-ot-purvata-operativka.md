@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Изводи от първата  среща-оперативка"
 category: meeting
