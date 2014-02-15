@@ -7,6 +7,7 @@ category: meeting
 
 ## Представянето
 За да бъде сбрано, представянето бе ограничено до 4 неща:
+
  - [Howto.bg](http://www.obshtestvo.bg/project/howto.html)
  - [RE:CYCLE](http://www.obshtestvo.bg/project/recycle.html)
  - [Grada.me](http://www.obshtestvo.bg/project/grada.me.html)
