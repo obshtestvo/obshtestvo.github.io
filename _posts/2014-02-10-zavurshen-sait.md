@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Сайтът ни obshtestvo.bg е довършен
 category: achievement
