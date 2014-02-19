@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Обща инициатива с BlueLink
+title: Обща инициатива с BlueLink и възможно финансиране
 category: meeting
 ---
 
