@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-title: Среща с ...
+title: Място в София
 category: meeting
 ---
 
