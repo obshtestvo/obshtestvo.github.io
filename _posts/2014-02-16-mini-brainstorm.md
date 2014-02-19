@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Мини-брейнсторм след Пловдив"
 category: meeting
