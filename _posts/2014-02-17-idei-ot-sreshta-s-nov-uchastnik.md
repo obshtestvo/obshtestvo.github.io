@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Идеи от срещата със Светлина Драгова
 category: meeting
