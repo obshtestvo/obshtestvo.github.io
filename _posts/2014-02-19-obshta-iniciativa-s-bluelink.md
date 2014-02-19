@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: Среща с ...
+title: Обща инициатива с BlueLink
 category: meeting
 ---
 
