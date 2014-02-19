@@ -9,6 +9,17 @@ category: achievement
 
 Най-новото са страниците с [начини за подкрепа](http://www.obshtestvo.bg/support.html#online) (всякаква, не само парична) и секцията [FAQ](http://www.obshtestvo.bg/faq.html) (Върпоси и Отговори).
 
+Също така имаме и страници с описание на всеки проект:
+
+- [Отворен парламент](http://www.obshtestvo.bg/project/openparliament.html)
+- [Pitaigi](http://www.obshtestvo.bg/project/pitaigi.html)
+- [RE:CYCLE](http://www.obshtestvo.bg/project/recycle.html)
+- [Grada.me](http://www.obshtestvo.bg/project/grada.me.html)
+- [Howto.bg](http://www.obshtestvo.bg/project/howto.html)
+- [Опознай депутата](http://www.obshtestvo.bg/project/knowyourmp.html)
+- [Обществени Известия](http://www.obshtestvo.bg/project/alerts.html)
+- [Строежи в защитени зони](https://www.facebook.com/groups/613236628749130a/)
+
 Страницата *support* позволява подкрепа чрез:
 
  - финансиране
