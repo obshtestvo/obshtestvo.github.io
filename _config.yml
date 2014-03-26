@@ -6,7 +6,6 @@ prose:
   metadata:
     "_posts": |
       layout: post
-      title: Среща с ...
       category: meeting
       tags: []
 BASE_PATH: http://status.obshtestvo.bg
@@ -19,7 +18,7 @@ disqus_shortname: obshtestvostatusblog
 author :
   name : Общество
   github : obshtestvo
-  twitter : obshtestvo
-  email: obshtestvo@obshtestvo.bg
+  twitter : obshtestvobg
+  email: info@obshtestvo.bg
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+  extensions: ["strikethrough", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
