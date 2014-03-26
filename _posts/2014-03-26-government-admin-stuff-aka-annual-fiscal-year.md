@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Какъв е годишния отчет на едно НПО с доброволци?"
 category: tips
