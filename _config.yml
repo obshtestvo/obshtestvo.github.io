@@ -1,0 +1,24 @@
+markdown: redcarpet
+pygments: true
+permalink: /:categories/:year/:month/:day/:title.html
+prose:
+  rooturl: "_posts"
+  metadata:
+    "_posts": |
+      layout: post
+      category: meeting
+      tags: []
+BASE_PATH: http://status.obshtestvo.bg
+title : Общество - Статус
+production_url : http://status.obshtestvo.bg
+description: "Общество: Кой какво направил и с кого се видял."
+disqus_shortname: obshtestvostatusblog
+# analytics: UA-32899481-1
+# gauges: 50f1f940613f5d2cfe000026
+author :
+  name : Общество
+  github : obshtestvo
+  twitter : obshtestvobg
+  email: info@obshtestvo.bg
+redcarpet:
+  extensions: ["strikethrough", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
