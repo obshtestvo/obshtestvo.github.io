@@ -6,7 +6,8 @@ prose:
   metadata:
     "_posts": |
       layout: post
-      category: meeting
+      category: 
+      title: 
       tags: []
 BASE_PATH: http://status.obshtestvo.bg
 title : Общество - Статус
