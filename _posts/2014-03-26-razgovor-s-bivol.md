@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "Разговор с Биволь"
-category: hackathon
+category: conversation
 ---
 
 Чухме се по телефона с Атанас Чобанов във връзка с проекта Отворен Парламент. Спомена се и проекта [Pitaigi](http://www.obshtestvo.bg/project/pitaigi.html, който той много хареса.
