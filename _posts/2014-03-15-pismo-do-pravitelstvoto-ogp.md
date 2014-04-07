@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Писмо до правителството отностно OGP"
+title: "Писмо до правителството относно OGP"
 category: policy
 ---
 
