@@ -17,4 +17,4 @@ category: meeting
 
 А тук са записките: https://obshtestvo.hackpad.com/13.03.2014-yZTkFEGdDSe
 
-Мястото е Кривото на ул. Будапеща, а събитето от което беще записа: https://www.facebook.com/events/290922131064676/
+Мястото е Кривото на ул. Будапеща, а събитето от което беше записа: https://www.facebook.com/events/290922131064676/
