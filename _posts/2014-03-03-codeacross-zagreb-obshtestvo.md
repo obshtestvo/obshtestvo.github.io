@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 category: meeting
+title: "title: "CodeAcross Загреб и Общество.бг""
 ---
 
 CodeAcross Загреб
