@@ -25,7 +25,7 @@ category: tech
 За изграждането и поддържането на покритието се се сливат райони с различни размери, различни правоъгълници в размери на екрана, с различен zoom. За да стане това сливане се иползва библиотека за манипулация на вектори: [Clipperjs](http://sourceforge.net/p/jsclipper/wiki/Home%206/).
 
 Ето как би изглеждало покритието от 2 сляти района ако потребителят е заредил сайта в центъра на софия и е преместил картата на югоизток:
-<iframe width="100%" height="300" src="http://jsfiddle.net/uF6ec/10/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="http://jsfiddle.net/uF6ec/10/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 А ето и [кода за покритието](https://github.com/obshtestvo/recycle/blob/master/ecomap/static/js/map/locationManager.js#L287): 
-<script src="http://gist-it.appspot.com/github/obshtestvo/recycle/blob/master/ecomap/static/js/map/locationManager.js?slice=256:"></script>
+<script src="obshtestvo/recycle/blob/9c4ade32f1a215049d62c941b4f64d478045ffa7/ecomap/static/js/map/locationManager.js?slice=286:"></script>
