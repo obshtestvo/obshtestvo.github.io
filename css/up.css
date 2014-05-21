@@ -2445,7 +2445,8 @@ a.list-group-item.active .list-group-item-text {
 }
 
 .thumbnail {
-    display: block;
+    display: inline-block;
+    width:30%
 }
 
 .thumbnail>img,.img-thumbnail {
