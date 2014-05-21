@@ -168,6 +168,7 @@ textarea {
 table {
     border-collapse: collapse;
     border-spacing: 0;
+    max-width:880px;
 }
 
 @media print {
@@ -984,7 +985,7 @@ pre code {
 }
 
 table {
-    max-width: 100%;
+    max-width:880px;
     background-color: transparent;
 }
 
