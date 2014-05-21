@@ -2403,7 +2403,7 @@ a.list-group-item.active .list-group-item-text {
     .nav-collapse.collapse {
         height: auto!important;
         overflow: visible!important;
-    };
+    }
 }
 
 .navbar-btn {
@@ -2513,9 +2513,9 @@ a.thumbnail:hover,a.thumbnail:focus {
 }
 
 @media screen and (max-width:400px) {
-@    -ms-viewport {
+    @-ms-viewport {
         width: 320px;
-    };
+    }
 }
 
 .hidden {
