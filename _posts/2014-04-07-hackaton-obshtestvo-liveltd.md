@@ -20,76 +20,76 @@ category: hackathon
 <table>
     <tr>
         <td>
-            <a href="media/hack-04-14/IMG_1361.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_1361.jpg">
+            <a href="/media/hack-04-14/IMG_1361.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_1361.jpg">
             </a>
         </td>
         <td>
-            <a href="media/hack-04-14/IMG_1362.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_1362.jpg">
+            <a href="/media/hack-04-14/IMG_1362.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_1362.jpg">
             </a>
         </td>
         <td>
-            <a href="media/hack-04-14/IMG_1365.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_1365.jpg">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="media/hack-04-14/IMG_2812.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_2812.jpg">
-            </a>
-        </td>
-        <td>
-            <a href="media/hack-04-14/IMG_2815.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_2815.jpg">
-            </a>
-        </td>
-        <td>
-            <a href="media/hack-04-14/IMG_2816.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_2816.jpg">
+            <a href="/media/hack-04-14/IMG_1365.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_1365.jpg">
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="media/hack-04-14/IMG_2817.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_2817.jpg">
+            <a href="/media/hack-04-14/IMG_2812.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_2812.jpg">
             </a>
         </td>
         <td>
-            <a href="media/hack-04-14/IMG_2820.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_2820.jpg">
+            <a href="/media/hack-04-14/IMG_2815.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_2815.jpg">
             </a>
         </td>
         <td>
-            <a href="media/hack-04-14/IMG_4160.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_4160.jpg">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="media/hack-04-14/IMG_4164.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_4164.jpg">
-            </a>
-        </td>
-        <td>
-            <a href="media/hack-04-14/IMG_4165.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_4165.jpg">
-            </a>
-        </td>
-        <td>
-            <a href="media/hack-04-14/IMG_4167.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_4167.jpg">
+            <a href="/media/hack-04-14/IMG_2816.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_2816.jpg">
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="media/hack-04-14/IMG_4168.jpg" class="thumbnail">
-                <img src="media/hack-04-14/IMG_4168.jpg">
+            <a href="/media/hack-04-14/IMG_2817.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_2817.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="/media/hack-04-14/IMG_2820.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_2820.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="/media/hack-04-14/IMG_4160.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_4160.jpg">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="/media/hack-04-14/IMG_4164.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_4164.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="/media/hack-04-14/IMG_4165.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_4165.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="/media/hack-04-14/IMG_4167.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_4167.jpg">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="/media/hack-04-14/IMG_4168.jpg" class="thumbnail">
+                <img src="/media/hack-04-14/IMG_4168.jpg">
             </a>
         </td>
     </tr>
