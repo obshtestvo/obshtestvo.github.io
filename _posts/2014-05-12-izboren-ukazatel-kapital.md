@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Изобрен Указател"
+title: "Изборен Указател"
 category: milestone
 ---
 
