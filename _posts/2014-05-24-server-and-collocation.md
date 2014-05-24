@@ -5,7 +5,7 @@ title: "Сървър на Общество.бг"
 category: milestone
 ---
 
--> ![Dell PowerEdge 2950](/media/dell-poweredge-2950.jpg) <-
+![Dell PowerEdge 2950](/media/dell-poweredge-2950.jpg)
 
 От четвъртък, 22 май 2014 г., Общество.бг вече [разполага със собствен сървър](http://koi.obshtestvo.bg/). Машината разполага със значителен капацитет и е готова да се превърне в дом за всички наши проекти. Благодарности на:
 
@@ -25,4 +25,4 @@ category: milestone
 - Възможност за отдалечен достъп и контрол на машината през dRAC
 - Машината е Dell PowerEdge 2950
 
--> ![Neterra server installation](/media/neterra-datacenter-server-installation.jpg) <-
+![Neterra server installation](/media/neterra-datacenter-server-installation.jpg)
