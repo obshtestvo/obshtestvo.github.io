@@ -14,3 +14,6 @@ category: initiative
 
 В хакпад тече дискусия и се описват идеите за по-добро електронно управление.
 Може да се видят и всички нарамили се със задачата, както и линкове към документи, които са от полза.
+
+Същия документ може би трябвало да виждате и тук, по-долу:
+<script src="https://obshtestvo.hackpad.com/GATlHsBzBA6.js"></script><noscript><div>View <a href="https://obshtestvo.hackpad.com/GATlHsBzBA6">Предложения за въвеждане на електронно управление</a> on Hackpad.</div></noscript>
