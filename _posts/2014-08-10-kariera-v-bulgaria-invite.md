@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: "1 месец до едно смислено събитие: Кариера в България"
 category: suggestion
