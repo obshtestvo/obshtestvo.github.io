@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "1 месец едно смислено събитие: Кариера в България"
+title: "1 месец до едно смислено събитие: Кариера в България"
 category: suggestion
 ---
 ![1 месец до Кариера в България](/media/1monthKBG.jpg)
