@@ -5,7 +5,7 @@ title: "Предстоящо участие в 3тото издание на „
 category: publicity
 ---
 
-Ще уастваме в [„Идеите това сме ние“](http://oib.bg/index.php/ideite-tova-sme-nie),
+Ще участваме в [„Идеите това сме ние“](http://oib.bg/index.php/ideite-tova-sme-nie),
 като част от екипа [„Наука и технологии“](http://oib.bg/index.php/ideite-tova-sme-nie/teams/tech)
 на 3-ти и 6-ти септември 2014.
 

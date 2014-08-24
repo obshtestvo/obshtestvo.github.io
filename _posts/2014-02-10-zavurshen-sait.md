@@ -7,7 +7,7 @@ category: achievement
 
 Вече можем да наречем http://www.obshtestvo.bg/ довършен. Някъде още ще се допълва съдържание, но поне има базово такова в момента.
 
-Най-новото са страниците с [начини за подкрепа](http://www.obshtestvo.bg/support.html#online) (всякаква, не само парична) и секцията [FAQ](http://www.obshtestvo.bg/faq.html) (Върпоси и Отговори).
+Най-новото са страниците с [начини за подкрепа](http://www.obshtestvo.bg/support.html#online) (всякаква, не само парична) и секцията [FAQ](http://www.obshtestvo.bg/faq.html) (Въпроси и Отговори).
 
 Също така имаме и страници с описание на всеки проект:
 

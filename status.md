@@ -371,7 +371,7 @@ group: navigation
 Допълнение: **Ще ми се да седнем и да обсъдим как точно да действаме заедно**
 
 - [hackfmi](http://hackfmi.com/) организатор
-- [entrepreneur.bg](http://www.entrepreneur.bg/) организтор
+- [entrepreneur.bg](http://www.entrepreneur.bg/) организатор
 - Активен в социалните мрежи
 
 
@@ -498,7 +498,7 @@ group: navigation
 
 
 
-### Програма за доступ до информация [ПДДИ](http://www.aip-bg.org/)
+### Програма за достъп до информация [ПДДИ](http://www.aip-bg.org/)
 ![AIPbulgaria](http://graph.facebook.com/AIPbulgaria/picture?width=100&height=100)  
 
 По Alaveteli.
@@ -506,7 +506,7 @@ group: navigation
 
 
 
-## Заглъхнали учасници
+## Заглъхнали участници
 Тези, които отдавна не сме се чували или са казали че, са много заети
 
 ### Добромир Петров

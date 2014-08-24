@@ -9,4 +9,4 @@ category: update
 
 Това ни е запазеното име. Като ще можем да си го пишем Obshtestvo.bg/Общество.бг 
 
-Фондация Obshteshtvo.bg :)
+Фондация Obshtestvo.bg :)
