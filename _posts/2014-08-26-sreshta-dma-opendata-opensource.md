@@ -15,7 +15,7 @@ category: meetings
 
 ### Отваряне на кода на АИСКАО
 
-Има реален шанс да пуснем с отворен код и, може би, свободен лиценз, [платформата АИСКАО](http://www.opac.government.bg/bg/topical/news/view/528), [разработена по ОПАК](http://www.opac.government.bg/bg/topical/news/view/528) от фирма [ТехноЛогика](http://www.technologica.com/presscenter/news/news-last/2013/11/20/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0-%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%B7%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B8-%D0%B5-%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8).
+Има реален шанс да пуснем с отворен код и, може би, свободен лиценз, [платформата АИСКАО, разработена по ОПАК](http://www.opac.government.bg/bg/topical/news/view/528) от фирма [ТехноЛогика](http://www.technologica.com/presscenter/news/news-last/2013/11/20/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0-%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%B7%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B8-%D0%B5-%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8).
 
 АИСКАО е съкращение от "Административната информационна система за комплексно административно обслужване". Според [съобщението за АИСКАО на сайта на ОПАК](http://www.opac.government.bg/bg/topical/news/view/528), "администрацията вече ще обслужва гражданите и бизнеса комплексно, т.е. без да изисква информация, с която вече разполага.", което звучи много обещаващо. Там се казва още:
 
