@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Презентация на портал за отворени данни пред корейска делегация в МС"
 category: presentation
