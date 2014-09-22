@@ -5,7 +5,7 @@ title: "Писмо до правителството относно OGP"
 category: policy
 ---
 
-След [срещата](http://status.obshtestvo.bg/meeting/2014/01/22/sreshta-po-povod-OGP.html) за обсъждане на [OGP](http://www.opengovpartnership.org/) плана на България, се написа писмо от всички участващи (включително и ние) със следния текст:
+След [срещата](//status.obshtestvo.bg/meeting/2014/01/22/sreshta-po-povod-OGP.html) за обсъждане на [OGP](http://www.opengovpartnership.org/) плана на България, се написа писмо от всички участващи (включително и ние) със следния текст:
 
 >Уважаема госпожо министър,
 >
