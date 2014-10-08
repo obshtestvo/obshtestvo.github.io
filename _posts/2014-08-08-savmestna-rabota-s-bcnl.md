@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Интервю за NGOLinks за OpenData"
+title: "Среща за проект на БЦНП"
 category: advice
 ---
 
