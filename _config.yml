@@ -9,9 +9,9 @@ prose:
       category: 
       title: 
       tags: []
-BASE_PATH: http://status.obshtestvo.bg
+BASE_PATH: //status.obshtestvo.bg
 title : Общество - Статус
-production_url : http://status.obshtestvo.bg
+production_url : //status.obshtestvo.bg
 description: "Общество: Кой какво направил и с кого се видял."
 disqus_shortname: obshtestvostatusblog
 # analytics: UA-32899481-1

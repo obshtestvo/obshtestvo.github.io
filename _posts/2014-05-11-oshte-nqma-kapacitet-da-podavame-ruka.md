@@ -5,7 +5,7 @@ title: "Не сме да готови да помагаме на готини о
 category: reflection
 ---
 
-След [срещата със СМЕН](http://status.obshtestvo.bg/meeting/2014/04/08/sreshta-s-ekipa-na-SMEN.html)
+След [срещата със СМЕН](//status.obshtestvo.bg/meeting/2014/04/08/sreshta-s-ekipa-na-SMEN.html)
 се оказва, че не сме готови да помагаме на готини организации и
 техните идеи за мобилни приложения, колкото и да са близки до нашите.
 
