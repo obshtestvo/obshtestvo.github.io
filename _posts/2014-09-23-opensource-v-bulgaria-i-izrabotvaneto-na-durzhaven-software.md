@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Неуспешно кандидатстване за Poplus"
+title: "Кампания „Отворен код в държавата“"
 category: milestone
 ---
 

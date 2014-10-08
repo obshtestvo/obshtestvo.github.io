@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Задействат се хора по нов проект „ShteGlasuvam“"
+title: "Работата по сайта obshtestvo.bg като платформа продължава"
 category: ping
 ---
 
