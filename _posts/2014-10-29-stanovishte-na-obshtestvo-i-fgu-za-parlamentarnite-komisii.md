@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Становище на „Общество“ и ФГУ за парламентарните комисии"
 category: update
