@@ -31,22 +31,6 @@ category: links
 управление ви вълнува, силно препоръчвам да го прочетете. По-долу ще спомена
 само няколко по-интересни момента от него.
 
-## Ключови препоръки
-
-Това е обобщение на ключовите препоръки, които баронесата прави към министъра:
-
-> 1. Make Directgov the government front end for all departments' transactional
->    online services to citizens and businesses, with the teeth to mandate
->    cross government solutions, set standards and force departments to improve
->    citizens' experience of key transactions.
-> 2. Make Directgov a wholesaler as well as the retail shop front for
->    government services & content by mandating the development and opening up
->    of Application Programme Interfaces (APls) to third parties.
-> 3. Change the model of government online publishing, by putting a new central
->    team in Cabinet Office in absolute control of the overall user experience
->    across all digital channels, commissioning all government online
->    information from other departments.
-
 ## Централен фокус е удобството на потребителите
 
 Прави впечатление, че най-често срещаната концепция, около която се обединяват
@@ -79,5 +63,24 @@ over the user experience across all government online services (websites and
 APls) and the power to direct all government online spend.
 
 По темата за държавен CIO/CEO [вече е писал и Божо](http://blog.bozho.net/?p=1763).
+
+## Ключови препоръки
+
+Това е обобщение на ключовите препоръки, които баронесата прави към министъра:
+
+> 1. Make Directgov the government front end for all departments' transactional
+>    online services to citizens and businesses, with the teeth to mandate
+>    cross government solutions, set standards and force departments to improve
+>    citizens' experience of key transactions.
+> 2. Make Directgov a wholesaler as well as the retail shop front for
+>    government services & content by mandating the development and opening up
+>    of Application Programme Interfaces (APls) to third parties.
+> 3. Change the model of government online publishing, by putting a new central
+>    team in Cabinet Office in absolute control of the overall user experience
+>    across all digital channels, commissioning all government online
+>    information from other departments.
+
+Може да прочетете [пълния текст на писмото тук](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60993/Martha_20Lane_20Fox_s_20letter_20to_20Francis_20Maude_2014th_20Oct_202010.pdf).
+
 
 Митьо
