@@ -18,7 +18,7 @@ category: links
 Марта Лейн Фокс, адресирано до министър Франсис Мъд и изпратено през октомври
 2010 г.
 
-[Directgov 2010 and beyond: revolution not evolution, a report by Martha Lane Fox →](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox)
+[**Directgov 2010 and beyond: revolution not evolution, a report by Martha Lane Fox →**](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox)
 
 Писмото поражда дискусии на високо равнище и води до взимането на решение да се
 предприеме мащабното начинание, което резултира в това, което Gov.uk е днес.
