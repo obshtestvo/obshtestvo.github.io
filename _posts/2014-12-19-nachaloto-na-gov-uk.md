@@ -18,7 +18,7 @@ category: links
 Марта Лейн Фокс, адресирано до министър Франсис Мъд и изпратено през октомври
 2010 г.
 
-[Directgov 2010 and beyond: revolution not evolution, a report by Martha Lane Fox →][1]
+[Directgov 2010 and beyond: revolution not evolution, a report by Martha Lane Fox →](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox)
 
 Писмото поражда дискусии на високо равнище и води до взимането на решение да се
 предприеме мащабното начинание, което резултира в това, което Gov.uk е днес.
@@ -26,9 +26,10 @@ category: links
 функциониращ отдавна, е един пример за успешна реализация на такова мащабно и
 смело начинание, инициирано от държавата.
 
-[Текстът на писмото][2] е ок. 10 страници и е интересно и вдъхновяващо четиво.
-Ако темата за електронно управление ви вълнува, силно препоръчвам да го
-прочетете. По-долу ще спомена само няколко по-интересни момента от него.
+[Текстът на писмото](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60993/Martha_20Lane_20Fox_s_20letter_20to_20Francis_20Maude_2014th_20Oct_202010.pdf)
+е ок. 10 страници и е интересно и вдъхновяващо четиво. Ако темата за електронно
+управление ви вълнува, силно препоръчвам да го прочетете. По-долу ще спомена
+само няколко по-интересни момента от него.
 
 ## Ключови препоръки
 
@@ -77,10 +78,6 @@ Office (...) are brought together under a new CEO for Digital.
 over the user experience across all government online services (websites and
 APls) and the power to direct all government online spend.
 
-По темата за държавен CIO/CEO [вече е писал и Божо][3].
+По темата за държавен CIO/CEO [вече е писал и Божо](http://blog.bozho.net/?p=1763).
 
 Митьо
-
-[1] https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox
-[2] https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60993/Martha_20Lane_20Fox_s_20letter_20to_20Francis_20Maude_2014th_20Oct_202010.pdf
-[3] http://blog.bozho.net/?p=1763
