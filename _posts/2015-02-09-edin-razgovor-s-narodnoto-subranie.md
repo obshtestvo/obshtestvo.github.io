@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Един разговор с Народното събрание..."
 category: reflection
