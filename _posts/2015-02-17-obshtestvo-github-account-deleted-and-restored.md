@@ -66,6 +66,29 @@ Aкаунтът е изтрит по погрешка и без лоша уми�
 >
 > (...) Изтрих "общество" от моя профил на ГитХъб-а. Работил съм към Auxionize и там каквото изтриеш го изтриваш само от своя компютър. Ръководителят на проекта допълнително одобряваше всяка една промяна. Не знаех, че имам админски права и мислех, че изтривам папката само от моя профил (компютър).
 
+## Отговор от GitHub (18 февруари)
+
+От поддръжката на GitHub възстановиха цялата организация и всички хранилища в нея. Единственото различно е, че на някои хранилища пише, че са fork-нати от такива на други хора, но всичко друго изглежда запазено изцяло.
+
+> I'm sorry for the delay in getting back to you about restoring your deleted obshtestvo organization.
+>
+> > "We created a new org. account with the same name a few minutes ago so that a malicious person does not take over it."
+>
+> That was a good instinct, but I cannot restore the organization while another account has the same name. I renamed the new organization to obshtestvo-temp so that I could restore the deleted account and repositories.
+>
+> I'm happy to tell you that we were able to restore the obshtestvo organization and the deleted repositories. You will soon be receiving an invitation to the organization's Owners team for the @mitio user account associated with this email address.
+>
+> You'll see that my user account (aden) is on that team as well. That is a temporary part of the restoration process. Feel free to remove me from the organization, or I will do myself in the near future. You'll also need to re-invite any other users to the organization because the team structure was not restored.
+>
+> It sounds like you already know how and why the account was deleted, but you can review all the logs for the account here:
+>
+> https://github.com/orgs/obshtestvo/audit-log
+>
+> Good luck with your projects! Please let me know if you have any questions or if there's anything else I can do to help.
+>
+> All the best,
+> Aden
+
 ## Изводи и мерки
 
 ### Възстановяване на данните
