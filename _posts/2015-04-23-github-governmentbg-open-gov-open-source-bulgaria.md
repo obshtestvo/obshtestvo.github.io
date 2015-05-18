@@ -1,5 +1,5 @@
 ---
-published: fales
+published: true
 layout: post
 title: "Първи проекти с отворен код в държавата"
 category: milestone
