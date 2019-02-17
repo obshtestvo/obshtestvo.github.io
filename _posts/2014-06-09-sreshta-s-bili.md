@@ -6,7 +6,7 @@ category: meeting
 ---
 
 [BiLI](http://bili-bg.org/) (Bulgarian Institute for Legal Initiatives)
-са правили http://judicialprofiles.bg/ и се видяхме, първо да се запознаем и второ
+са правили <http://judicialprofiles.bg/> и се видяхме, първо да се запознаем и второ
 да ни разкажат за една своя идея.
 
 Освен това тяхната експертиза е много точна и за проекта „Следи парламента“ и ще се опитаме

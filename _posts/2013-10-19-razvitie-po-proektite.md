@@ -8,7 +8,7 @@ category: update
 ### Alaveteli
 Превода напредва (80-90%) https://www.transifex.com/projects/p/alaveteli/language/bg/
 
-Също имаме наша инсталация http://foi.obshtestvo.bg/, благодарение на [Митьо](https://www.facebook.com/mitio)
+Също имаме наша инсталация <http://foi.obshtestvo.bg/>, благодарение на [Митьо](https://www.facebook.com/mitio)
 
 [Димитър Райков](https://www.facebook.com/dimitar.raykov) готви наша версия на дизайна.
 
