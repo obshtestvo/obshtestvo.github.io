@@ -1,13 +1,13 @@
 markdown: redcarpet
-pygments: true
+highlighter: rouge
 permalink: /:categories/:year/:month/:day/:title.html
 prose:
   rooturl: "_posts"
   metadata:
     "_posts": |
       layout: post
-      category: 
-      title: 
+      category:
+      title:
       tags: []
 BASE_PATH: //status.obshtestvo.bg
 title : Общество - Статус
